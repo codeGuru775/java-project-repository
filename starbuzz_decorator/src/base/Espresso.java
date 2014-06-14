@@ -4,7 +4,7 @@ public class Espresso extends Beverage {
 
 	public Espresso()
 	{
-		description="Espresso";
+		description="Espresso ki ma ka";
 	}
 	@Override
 	public double cost() {
